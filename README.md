@@ -138,4 +138,4 @@ Either fix should be validated across all pool types sharing the burn infrastruc
 
 ## License
 
-Released under CC BY-NC 4.0. Others may read, share, and reference this research for non-commercial purposes.
+Released under CC0, good luck.
